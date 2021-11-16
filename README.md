@@ -1,3 +1,3 @@
 # Hello-World
-Primer repositorio
-Hola mi nombre es Emiliano
+Mi nombre es Emiliano, comenzando este nuevo camino en la programacion, actualmente cursando el curdo de Full Stack en Digital House.
+
